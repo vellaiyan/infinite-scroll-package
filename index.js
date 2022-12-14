@@ -37,3 +37,5 @@ function infiniteScroll(data, count, container, elementType, objectName, appendT
   }
   loadImage(count);
 }
+
+module.exports = infiniteScroll;
